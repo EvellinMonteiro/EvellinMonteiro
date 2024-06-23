@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @EvellinMonteiro
-- 👀 I’m interested in aprender e compartilhar qualquer conhecimento que possa ser de ajuda para outros.
-- 🌱 I’m currently learning Ciência de Dados e Desenvolvimento Back-End.
-- 💞️ I’m looking to collaborate on projetos que me ajudem a fixar os estudos nos quais estou envolvida no momneto.
-- 📫 How to reach me ...
+- 👋 Hi, eu sou a @EvellinMonteiro
+- 👀 Estou interessada em aprender e compartilhar qualquer conhecimento que possa ser de ajuda para outros.
+- 🌱 Atualmente estou aprendendo Ciência de Dados e Desenvolvimento Back-End.
+- 💞️ Procuro colaborar com projetos que me ajudem a fixar os estudos nos quais estou envolvida no momento.
 - 😄 Pronouns: Ela/Dela
-- ⚡ Fun fact: ...
 
 <!---
 EvellinMonteiro/EvellinMonteiro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
